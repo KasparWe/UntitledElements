@@ -1,0 +1,23 @@
+{
+  "name": "untitledelements",
+  "version": "1.0.0",
+  "description": "Untitled",
+  "main": "index.js",
+  "dependencies": {
+    "phaser": "^3.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawetsch/UntitledElements.git"
+  },
+  "author": "blanky0230",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kawetsch/UntitledElements/issues"
+  },
+  "homepage": "https://github.com/Kawetsch/UntitledElements#readme"
+}
